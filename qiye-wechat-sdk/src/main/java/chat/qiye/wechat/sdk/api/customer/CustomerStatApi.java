@@ -6,8 +6,8 @@ import chat.qiye.wechat.sdk.api.customer.param.UserBehaviorDataGetParam;
 import chat.qiye.wechat.sdk.api.customer.resp.GroupChatStatByDayResp;
 import chat.qiye.wechat.sdk.api.customer.resp.GroupChatStatByOwnerResp;
 import chat.qiye.wechat.sdk.api.customer.resp.UserBehaviorDataGetResp;
-import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import feign.RequestLine;
 
 /**

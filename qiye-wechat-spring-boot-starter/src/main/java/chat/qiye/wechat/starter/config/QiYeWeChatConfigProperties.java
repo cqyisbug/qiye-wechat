@@ -6,9 +6,6 @@ import chat.qiye.wechat.sdk.utils.AssertUtil;
 import chat.qiye.wechat.sdk.utils.StringUtil;
 import chat.qiye.wechat.starter.FeignLoggerType;
 import feign.Logger;
-import feign.RequestInterceptor;
-import feign.Retryer;
-import feign.codec.ErrorDecoder;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

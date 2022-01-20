@@ -1,13 +1,12 @@
 package chat.qiye.wechat.sdk.api.customer.resp;
 
-import java.util.List;
-
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import chat.qiye.wechat.sdk.common.RespStatus;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+import java.util.List;
 
 /**
  * 获取配置了客户联系功能的成员列表 结果

@@ -2,27 +2,11 @@ package chat.qiye.wechat.sdk.api.contact;
 
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.api.contact.param.AuthMemberListParam;
-import chat.qiye.wechat.sdk.api.contact.param.CheckMemberAuthParam;
-import chat.qiye.wechat.sdk.api.contact.param.ContactInviteParam;
-import chat.qiye.wechat.sdk.api.contact.param.ContactToOpenIdParam;
-import chat.qiye.wechat.sdk.api.contact.param.ContactToUserIdParam;
-import chat.qiye.wechat.sdk.api.contact.param.ContactUserBatchDeleteParam;
-import chat.qiye.wechat.sdk.api.contact.param.ContactUserParam;
-import chat.qiye.wechat.sdk.api.contact.param.GetActiveStatParam;
-import chat.qiye.wechat.sdk.api.contact.param.GetUserIdParam;
-import chat.qiye.wechat.sdk.api.contact.resp.AuthMemberListResp;
-import chat.qiye.wechat.sdk.api.contact.resp.CheckMemberAuthResp;
-import chat.qiye.wechat.sdk.api.contact.resp.ContactToOpenIdResp;
-import chat.qiye.wechat.sdk.api.contact.resp.ContactToUserIdResp;
-import chat.qiye.wechat.sdk.api.contact.resp.ContactUserGetResp;
-import chat.qiye.wechat.sdk.api.contact.resp.ContactUserListResp;
-import chat.qiye.wechat.sdk.api.contact.resp.GetActiveStatResp;
-import chat.qiye.wechat.sdk.api.contact.resp.GetJoinQrcodeResp;
-import chat.qiye.wechat.sdk.api.contact.resp.GetUserIdResp;
+import chat.qiye.wechat.sdk.api.contact.param.*;
+import chat.qiye.wechat.sdk.api.contact.resp.*;
 import chat.qiye.wechat.sdk.common.RespStatus;
-import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import feign.Param;
 import feign.RequestLine;
 

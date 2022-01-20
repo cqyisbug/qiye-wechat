@@ -2,12 +2,7 @@ package chat.qiye.wechat.sdk.annotation;
 
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
 
-import java.lang.annotation.Documented;
-import java.lang.annotation.ElementType;
-import java.lang.annotation.Inherited;
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-import java.lang.annotation.Target;
+import java.lang.annotation.*;
 
 /**
  * 企业微信 api 注解

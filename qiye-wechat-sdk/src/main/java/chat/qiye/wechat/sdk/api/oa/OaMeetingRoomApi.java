@@ -1,7 +1,6 @@
 package chat.qiye.wechat.sdk.api.oa;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.api.oa.vo.MeetingRoom;
 import chat.qiye.wechat.sdk.api.oa.param.MeetingRoomBookingParam;
 import chat.qiye.wechat.sdk.api.oa.param.MeetingRoomCancelBookingParam;
 import chat.qiye.wechat.sdk.api.oa.param.MeetingRoomDelParam;
@@ -10,6 +9,7 @@ import chat.qiye.wechat.sdk.api.oa.resp.MeetingRoomAddResp;
 import chat.qiye.wechat.sdk.api.oa.resp.MeetingRoomBookingResp;
 import chat.qiye.wechat.sdk.api.oa.resp.MeetingRoomListResp;
 import chat.qiye.wechat.sdk.api.oa.resp.MeetingRoomQueryBookingResp;
+import chat.qiye.wechat.sdk.api.oa.vo.MeetingRoom;
 import chat.qiye.wechat.sdk.common.RespStatus;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
 import chat.qiye.wechat.sdk.constant.OaApiUris;

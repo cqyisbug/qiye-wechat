@@ -1,10 +1,10 @@
 package chat.qiye.wechat.sdk.api.contact.param;
 
-import java.io.Serializable;
-
 import chat.qiye.wechat.sdk.common.RespStatus;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+
+import java.io.Serializable;
 
 /**
  *

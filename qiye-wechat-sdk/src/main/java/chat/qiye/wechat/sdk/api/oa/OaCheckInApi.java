@@ -5,15 +5,10 @@ import chat.qiye.wechat.sdk.api.oa.param.AddCheckInUserFaceParam;
 import chat.qiye.wechat.sdk.api.oa.param.GetCheckInDataParam;
 import chat.qiye.wechat.sdk.api.oa.param.GetCheckInUserRuleParam;
 import chat.qiye.wechat.sdk.api.oa.param.SetCheckInScheduleListParam;
-import chat.qiye.wechat.sdk.api.oa.resp.CheckInDataResp;
-import chat.qiye.wechat.sdk.api.oa.resp.CheckInDayDataResp;
-import chat.qiye.wechat.sdk.api.oa.resp.CheckInMonthDataResp;
-import chat.qiye.wechat.sdk.api.oa.resp.CheckInUserScheduleListResp;
-import chat.qiye.wechat.sdk.api.oa.resp.CorpCheckInRuleResp;
-import chat.qiye.wechat.sdk.api.oa.resp.UserCheckInRuleResp;
+import chat.qiye.wechat.sdk.api.oa.resp.*;
 import chat.qiye.wechat.sdk.common.RespStatus;
-import chat.qiye.wechat.sdk.constant.OaApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.OaApiUris;
 import feign.RequestLine;
 
 /**

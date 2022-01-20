@@ -1,7 +1,6 @@
 package chat.qiye.wechat.sdk.api.thirdparty.vo;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import lombok.Data;
 
 /**

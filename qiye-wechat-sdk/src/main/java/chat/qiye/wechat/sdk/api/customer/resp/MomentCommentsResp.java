@@ -1,13 +1,12 @@
 package chat.qiye.wechat.sdk.api.customer.resp;
 
-import java.util.List;
-
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-import chat.qiye.wechat.sdk.api.customer.dto.MomentLikeListDto;
 import chat.qiye.wechat.sdk.api.customer.dto.MomentCommentListDto;
+import chat.qiye.wechat.sdk.api.customer.dto.MomentLikeListDto;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.util.List;
 
 /**
  *

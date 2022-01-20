@@ -1,8 +1,8 @@
 package chat.qiye.wechat.sdk.api.contact.param;
 
-import java.io.Serializable;
-
 import lombok.Data;
+
+import java.io.Serializable;
 
 /**
  *

@@ -8,8 +8,8 @@ import chat.qiye.wechat.sdk.api.customer.resp.MomentCommentsResp;
 import chat.qiye.wechat.sdk.api.customer.resp.MomentListResp;
 import chat.qiye.wechat.sdk.api.customer.resp.MomentTaskStatusResp;
 import chat.qiye.wechat.sdk.api.customer.resp.MomentViewCustomerResp;
-import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import feign.RequestLine;
 
 /**

@@ -1,11 +1,7 @@
 package chat.qiye.wechat.sdk.api.customer;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.api.customer.param.CustomerTagAddParam;
-import chat.qiye.wechat.sdk.api.customer.param.CustomerTagDelParam;
-import chat.qiye.wechat.sdk.api.customer.param.CustomerTagEditParam;
-import chat.qiye.wechat.sdk.api.customer.param.CustomerTagGetParam;
-import chat.qiye.wechat.sdk.api.customer.param.CustomerTagMarkParam;
+import chat.qiye.wechat.sdk.api.customer.param.*;
 import chat.qiye.wechat.sdk.api.customer.resp.CustomerTagGetResp;
 import chat.qiye.wechat.sdk.api.customer.resp.CustomerTagListResp;
 import chat.qiye.wechat.sdk.common.RespStatus;

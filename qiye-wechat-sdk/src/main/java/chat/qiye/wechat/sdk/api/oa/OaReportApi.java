@@ -7,8 +7,8 @@ import chat.qiye.wechat.sdk.api.oa.param.GetJournalStatListParam;
 import chat.qiye.wechat.sdk.api.oa.resp.GetJournalDetailResp;
 import chat.qiye.wechat.sdk.api.oa.resp.GetJournalRecordListResp;
 import chat.qiye.wechat.sdk.api.oa.resp.GetJournalStatListResp;
-import chat.qiye.wechat.sdk.constant.OaApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.OaApiUris;
 import feign.RequestLine;
 
 /**

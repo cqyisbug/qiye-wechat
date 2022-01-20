@@ -1,7 +1,6 @@
 package chat.qiye.wechat.sdk.api.customer.resp;
 
 import chat.qiye.wechat.sdk.common.RespStatus;
-
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.Getter;

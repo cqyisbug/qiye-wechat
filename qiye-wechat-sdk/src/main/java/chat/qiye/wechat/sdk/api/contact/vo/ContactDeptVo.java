@@ -1,10 +1,9 @@
 package chat.qiye.wechat.sdk.api.contact.vo;
 
-import java.io.Serializable;
-
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import lombok.Data;
+
+import java.io.Serializable;
 
 @Data
 public class ContactDeptVo implements Serializable {

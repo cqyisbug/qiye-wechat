@@ -1,8 +1,8 @@
 package chat.qiye.wechat.sdk.api.school.param;
 
-import java.util.Set;
-
 import lombok.Data;
+
+import java.util.Set;
 
 /**
  *

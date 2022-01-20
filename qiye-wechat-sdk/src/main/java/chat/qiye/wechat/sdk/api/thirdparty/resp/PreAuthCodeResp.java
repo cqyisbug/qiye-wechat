@@ -1,12 +1,11 @@
 package chat.qiye.wechat.sdk.api.thirdparty.resp;
 
 import chat.qiye.wechat.sdk.common.RespStatus;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 import java.io.Serializable;
-
-import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  * 预授权码接口响应数据

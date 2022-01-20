@@ -1,7 +1,7 @@
 package chat.qiye.wechat.sdk.api.message.dto.appChat;
 
-import chat.qiye.wechat.sdk.common.dto.ImageDto;
 import chat.qiye.wechat.sdk.api.message.dto.MessageDto;
+import chat.qiye.wechat.sdk.common.dto.ImageDto;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

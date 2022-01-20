@@ -1,20 +1,11 @@
 package chat.qiye.wechat.sdk.api.oa;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.api.oa.param.ApprovalApplyEventParam;
-import chat.qiye.wechat.sdk.api.oa.param.GetApprovalApplyNumListParam;
-import chat.qiye.wechat.sdk.api.oa.param.GetApprovalDetailParam;
-import chat.qiye.wechat.sdk.api.oa.param.GetApprovalTemplateParam;
-import chat.qiye.wechat.sdk.api.oa.param.GetVacationQuotaParam;
-import chat.qiye.wechat.sdk.api.oa.param.SetVacationUserQuotaParam;
-import chat.qiye.wechat.sdk.api.oa.resp.AddApprovalApplyEventResp;
-import chat.qiye.wechat.sdk.api.oa.resp.ApprovalApplyNumListResp;
-import chat.qiye.wechat.sdk.api.oa.resp.ApprovalDetailResp;
-import chat.qiye.wechat.sdk.api.oa.resp.GetApprovalTemplateResp;
-import chat.qiye.wechat.sdk.api.oa.resp.GetVacationConfResp;
+import chat.qiye.wechat.sdk.api.oa.param.*;
+import chat.qiye.wechat.sdk.api.oa.resp.*;
 import chat.qiye.wechat.sdk.common.RespStatus;
-import chat.qiye.wechat.sdk.constant.OaApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.OaApiUris;
 import feign.RequestLine;
 
 /**

@@ -1,12 +1,7 @@
 package chat.qiye.wechat.sdk.api.customer.param;
 
+import chat.qiye.wechat.sdk.common.dto.*;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
-import chat.qiye.wechat.sdk.common.dto.FileDto;
-import chat.qiye.wechat.sdk.common.dto.ImageDto;
-import chat.qiye.wechat.sdk.common.dto.TextDto;
-import chat.qiye.wechat.sdk.common.dto.LinkDto;
-import chat.qiye.wechat.sdk.common.dto.MiniprogramDto;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

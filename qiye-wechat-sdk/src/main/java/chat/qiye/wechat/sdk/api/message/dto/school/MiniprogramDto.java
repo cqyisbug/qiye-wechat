@@ -1,7 +1,6 @@
 package chat.qiye.wechat.sdk.api.message.dto.school;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

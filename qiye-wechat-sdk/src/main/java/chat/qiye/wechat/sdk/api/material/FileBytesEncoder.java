@@ -1,14 +1,13 @@
 package chat.qiye.wechat.sdk.api.material;
 
-import static java.nio.charset.StandardCharsets.UTF_8;
+import feign.RequestTemplate;
+import feign.codec.EncodeException;
+import feign.codec.Encoder;
 
 import java.lang.reflect.Type;
 import java.util.Map;
 
-import feign.Request;
-import feign.RequestTemplate;
-import feign.codec.EncodeException;
-import feign.codec.Encoder;
+import static java.nio.charset.StandardCharsets.UTF_8;
 
 /**
  *

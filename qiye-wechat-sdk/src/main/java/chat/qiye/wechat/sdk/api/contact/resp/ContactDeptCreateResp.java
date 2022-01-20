@@ -1,11 +1,11 @@
 package chat.qiye.wechat.sdk.api.contact.resp;
 
-import java.io.Serializable;
-
 import chat.qiye.wechat.sdk.common.RespStatus;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+import java.io.Serializable;
 
 @Getter
 @Setter

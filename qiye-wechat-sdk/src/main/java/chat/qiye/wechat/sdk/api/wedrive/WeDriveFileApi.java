@@ -2,14 +2,7 @@ package chat.qiye.wechat.sdk.api.wedrive;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
 import chat.qiye.wechat.sdk.api.wedrive.param.*;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileCreateResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileDownloadResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileInfoResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileListResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileMoveResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileRenameResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.FileUploadResp;
-import chat.qiye.wechat.sdk.api.wedrive.resp.WeDriveFileShareResp;
+import chat.qiye.wechat.sdk.api.wedrive.resp.*;
 import chat.qiye.wechat.sdk.common.RespStatus;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
 import feign.RequestLine;

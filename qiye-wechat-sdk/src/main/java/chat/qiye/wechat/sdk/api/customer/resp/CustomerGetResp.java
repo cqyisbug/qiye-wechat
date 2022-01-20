@@ -1,14 +1,9 @@
 package chat.qiye.wechat.sdk.api.customer.resp;
 
-import chat.qiye.wechat.sdk.common.RespStatus;
 import chat.qiye.wechat.sdk.api.contact.vo.UserExternalProfile;
-
+import chat.qiye.wechat.sdk.common.RespStatus;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Data;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import lombok.ToString;
+import lombok.*;
 
 import java.io.Serializable;
 import java.util.ArrayList;

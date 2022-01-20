@@ -1,19 +1,8 @@
 package chat.qiye.wechat.sdk.api.live;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.api.live.param.GetLivingCodeParam;
-import chat.qiye.wechat.sdk.api.live.param.GetLivingShareInfoParam;
-import chat.qiye.wechat.sdk.api.live.param.GetLivingWatchStatParam;
-import chat.qiye.wechat.sdk.api.live.param.GetUserAllLivingIdParam;
-import chat.qiye.wechat.sdk.api.live.param.LivingCreateParam;
-import chat.qiye.wechat.sdk.api.live.param.LivingIdParam;
-import chat.qiye.wechat.sdk.api.live.param.LivingUpdateParam;
-import chat.qiye.wechat.sdk.api.live.resp.GetLivingCodeResp;
-import chat.qiye.wechat.sdk.api.live.resp.GetLivingShareInfoResp;
-import chat.qiye.wechat.sdk.api.live.resp.GetLivingWatchStatResp;
-import chat.qiye.wechat.sdk.api.live.resp.GetUserAllLivingIdResp;
-import chat.qiye.wechat.sdk.api.live.resp.LivingCreateResp;
-import chat.qiye.wechat.sdk.api.live.resp.LivingDetailResp;
+import chat.qiye.wechat.sdk.api.live.param.*;
+import chat.qiye.wechat.sdk.api.live.resp.*;
 import chat.qiye.wechat.sdk.common.RespStatus;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
 import feign.Param;

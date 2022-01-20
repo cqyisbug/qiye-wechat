@@ -1,9 +1,9 @@
 package chat.qiye.wechat.sdk.api.material;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import chat.qiye.wechat.sdk.api.material.resp.UploadImgResp;
 import chat.qiye.wechat.sdk.api.material.resp.UploadResp;
+import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import feign.Headers;
 import feign.Param;
 import feign.RequestLine;

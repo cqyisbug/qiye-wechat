@@ -1,12 +1,7 @@
 package chat.qiye.wechat.sdk.api.wedrive;
 
 import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
-import chat.qiye.wechat.sdk.api.wedrive.param.WeDriveSpaceAclParam;
-import chat.qiye.wechat.sdk.api.wedrive.param.WeDriveSpaceCreateParam;
-import chat.qiye.wechat.sdk.api.wedrive.param.WeDriveSpaceIdParam;
-import chat.qiye.wechat.sdk.api.wedrive.param.WeDriveSpaceRenameParam;
-import chat.qiye.wechat.sdk.api.wedrive.param.WeDriveSpaceSettingParam;
-import chat.qiye.wechat.sdk.api.wedrive.param.WeDriveSpaceShareParam;
+import chat.qiye.wechat.sdk.api.wedrive.param.*;
 import chat.qiye.wechat.sdk.api.wedrive.resp.WeDriveSpaceCreateResp;
 import chat.qiye.wechat.sdk.api.wedrive.resp.WeDriveSpaceInfoResp;
 import chat.qiye.wechat.sdk.api.wedrive.resp.WeDriveSpaceShareResp;

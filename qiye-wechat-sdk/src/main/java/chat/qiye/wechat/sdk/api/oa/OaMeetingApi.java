@@ -9,8 +9,8 @@ import chat.qiye.wechat.sdk.api.oa.resp.MeetingDetailResp;
 import chat.qiye.wechat.sdk.api.oa.resp.MeetingGetUserMeetingResp;
 import chat.qiye.wechat.sdk.api.oa.vo.MeetingVo;
 import chat.qiye.wechat.sdk.common.RespStatus;
-import chat.qiye.wechat.sdk.constant.OaApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.OaApiUris;
 import feign.RequestLine;
 
 /**

@@ -1,8 +1,7 @@
 package chat.qiye.wechat.sdk.api.customer.param;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import chat.qiye.wechat.sdk.api.customer.dto.OwnerFilterDto;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

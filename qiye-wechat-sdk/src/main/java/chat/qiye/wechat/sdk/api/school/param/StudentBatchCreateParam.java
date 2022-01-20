@@ -1,9 +1,9 @@
 package chat.qiye.wechat.sdk.api.school.param;
 
-import java.util.Set;
-
 import chat.qiye.wechat.sdk.api.school.dto.StudentDto;
 import lombok.Data;
+
+import java.util.Set;
 
 /**
  *

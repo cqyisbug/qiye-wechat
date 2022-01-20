@@ -1,8 +1,7 @@
 package chat.qiye.wechat.sdk.api.school.param;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import chat.qiye.wechat.sdk.api.school.dto.StudentDto;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

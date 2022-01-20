@@ -1,10 +1,9 @@
 package chat.qiye.wechat.sdk.api.school.dto;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-import chat.qiye.wechat.sdk.common.dto.TextDto;
 import chat.qiye.wechat.sdk.common.dto.MiniprogramDto;
+import chat.qiye.wechat.sdk.common.dto.TextDto;
 import chat.qiye.wechat.sdk.common.dto.WebDto;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

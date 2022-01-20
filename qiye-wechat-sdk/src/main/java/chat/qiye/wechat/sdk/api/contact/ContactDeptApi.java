@@ -6,8 +6,8 @@ import chat.qiye.wechat.sdk.api.contact.resp.ContactDeptCreateResp;
 import chat.qiye.wechat.sdk.api.contact.resp.ContactDeptListResp;
 import chat.qiye.wechat.sdk.api.contact.vo.ContactDeptVo;
 import chat.qiye.wechat.sdk.common.RespStatus;
-import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import feign.Param;
 import feign.RequestLine;
 

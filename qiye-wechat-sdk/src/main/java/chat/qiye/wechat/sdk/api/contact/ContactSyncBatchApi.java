@@ -4,8 +4,8 @@ import chat.qiye.wechat.sdk.annotation.QiYeWeChatApi;
 import chat.qiye.wechat.sdk.api.contact.param.BatchSyncDeptParam;
 import chat.qiye.wechat.sdk.api.contact.param.BatchSyncUserParam;
 import chat.qiye.wechat.sdk.api.contact.resp.BatchSyncResp;
-import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.BaseApiUris;
 import feign.Param;
 import feign.RequestLine;
 

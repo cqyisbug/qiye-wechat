@@ -1,15 +1,14 @@
 package chat.qiye.wechat.sdk.api.contact.resp;
 
 
-import java.io.Serializable;
-import java.util.List;
-
-
-import chat.qiye.wechat.sdk.common.RespStatus;
 import chat.qiye.wechat.sdk.api.contact.vo.ContactDeptVo;
+import chat.qiye.wechat.sdk.common.RespStatus;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+import java.io.Serializable;
+import java.util.List;
 
 @Getter
 @Setter

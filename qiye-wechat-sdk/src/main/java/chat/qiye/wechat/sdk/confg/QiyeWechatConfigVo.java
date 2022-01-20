@@ -3,8 +3,6 @@ package chat.qiye.wechat.sdk.confg;
 import chat.qiye.wechat.sdk.constant.Constant;
 import lombok.Data;
 
-import java.time.LocalDateTime;
-
 /**
  * 企业微信 配置信息
  *

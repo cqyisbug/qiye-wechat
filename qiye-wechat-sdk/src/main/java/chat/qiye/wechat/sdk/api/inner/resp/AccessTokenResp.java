@@ -1,8 +1,7 @@
 package chat.qiye.wechat.sdk.api.inner.resp;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import chat.qiye.wechat.sdk.common.RespStatus;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

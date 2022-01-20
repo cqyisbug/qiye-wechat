@@ -1,9 +1,8 @@
 package chat.qiye.wechat.sdk.api.message.dto.appChat;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-import chat.qiye.wechat.sdk.common.dto.VideoDto;
 import chat.qiye.wechat.sdk.api.message.dto.MessageDto;
+import chat.qiye.wechat.sdk.common.dto.VideoDto;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

@@ -1,16 +1,11 @@
 package chat.qiye.wechat.sdk.api.customer.dto;
 
-import java.util.List;
-
+import chat.qiye.wechat.sdk.common.dto.*;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
-import chat.qiye.wechat.sdk.common.dto.ImageDto;
-import chat.qiye.wechat.sdk.common.dto.LocationDto;
-import chat.qiye.wechat.sdk.common.dto.TextDto;
-import chat.qiye.wechat.sdk.common.dto.VideoDto;
-import chat.qiye.wechat.sdk.common.dto.LinkDto;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.util.List;
 
 /**
  *

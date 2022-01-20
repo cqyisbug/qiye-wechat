@@ -8,8 +8,8 @@ import chat.qiye.wechat.sdk.api.customer.resp.ContactWayGetResp;
 import chat.qiye.wechat.sdk.api.customer.resp.ContactWaySetResp;
 import chat.qiye.wechat.sdk.api.customer.resp.FollowUserListResp;
 import chat.qiye.wechat.sdk.common.RespStatus;
-import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import feign.RequestLine;
 
 /**

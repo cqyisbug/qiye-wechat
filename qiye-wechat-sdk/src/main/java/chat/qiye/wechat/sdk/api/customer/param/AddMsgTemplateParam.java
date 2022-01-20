@@ -1,13 +1,12 @@
 package chat.qiye.wechat.sdk.api.customer.param;
 
-import java.util.List;
-
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 import chat.qiye.wechat.sdk.common.dto.AttachmentsDto;
 import chat.qiye.wechat.sdk.common.dto.TextDto;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import java.util.List;
 
 /**
  *

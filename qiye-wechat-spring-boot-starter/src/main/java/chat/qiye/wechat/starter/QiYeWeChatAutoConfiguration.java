@@ -1,8 +1,5 @@
 package chat.qiye.wechat.starter;
 
-import chat.qiye.wechat.sdk.api.inner.AccessTokenApi;
-import chat.qiye.wechat.sdk.api.thirdparty.ThirdAccessTokenApi;
-import chat.qiye.wechat.sdk.service.ApiConfigurationDefaultProvider;
 import chat.qiye.wechat.sdk.service.ApiConfigurationProvider;
 import chat.qiye.wechat.sdk.service.ApiFactory;
 import chat.qiye.wechat.starter.config.QiYeWeChatConfigProperties;

@@ -9,8 +9,8 @@ import chat.qiye.wechat.sdk.api.customer.resp.CustomerTransferResp;
 import chat.qiye.wechat.sdk.api.customer.resp.CustomerTransferResultResp;
 import chat.qiye.wechat.sdk.api.customer.resp.CustomerUnassignedListResp;
 import chat.qiye.wechat.sdk.api.customer.resp.GroupChatTransferResp;
-import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import chat.qiye.wechat.sdk.constant.AppTypeEnum;
+import chat.qiye.wechat.sdk.constant.CustomerApiUris;
 import feign.RequestLine;
 
 /**

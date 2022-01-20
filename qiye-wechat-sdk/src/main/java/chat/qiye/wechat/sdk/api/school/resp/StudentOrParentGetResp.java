@@ -1,15 +1,14 @@
 package chat.qiye.wechat.sdk.api.school.resp;
 
-import java.io.Serializable;
-
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-import chat.qiye.wechat.sdk.common.RespStatus;
 import chat.qiye.wechat.sdk.api.school.dto.ParentDetailDto;
 import chat.qiye.wechat.sdk.api.school.dto.StudentDetailDto;
+import chat.qiye.wechat.sdk.common.RespStatus;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+import java.io.Serializable;
 
 /**
  *
